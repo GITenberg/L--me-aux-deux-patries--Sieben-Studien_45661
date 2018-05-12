@@ -1,0 +1,29 @@
+_repo: L--me-aux-deux-patries--Sieben-Studien_45661
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45661-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Kolb, Annette
+    alias: Kolb, Anna Mathilde
+    birthdate: 1870
+    deathdate: 1967
+    gutenberg_agent_id: '42651'
+    url: http://www.gutenberg.org/2009/agents/42651
+description: ''
+gutenberg_issued: '2014-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45661'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German essays'
+- !lcc 'PT'
+- !lcsh 'Germany -- Relations -- France'
+- !lcsh 'France -- Relations -- Germany'
+title: 'L''Âme aux deux patries: Sieben Studien'
+url: http://www.gutenberg.org/ebooks/45661
